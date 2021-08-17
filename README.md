@@ -44,6 +44,7 @@ You may spend Apples in the following ways, marking them off your sheet as you u
 
 * Spend 1 Apple to re-roll your die an additional time when moving into a square. You may do this as many times as you like, as long as you have Apples to spend.
 * Spend 1 Apple to change another player's number up or down one—whether this helps or hurts them is up to you.
+* Spend 1 Apple to move *diagonally* once, instead of orthogonally.
 * Spend 2 Apples to jump to any other unused square on the Grid that matches your current number. (You may not jump to an Apple or Skull square, clearly.)
 * Spend 3 Apples to finally achieve your character's Goal! As with an exit, when the current scene ends, take a solo spotlight to describe how your dreams come true, then each player will act as a chorus, adding one line at a time until your memory is complete.
 
