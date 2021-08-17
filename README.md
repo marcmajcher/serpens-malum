@@ -53,11 +53,11 @@ Play until you feel that you've had enough, or until every character has either 
 
 ## Grids
 
-![Grid One](https://marcmajcher.github.io/serpens-malum/img/Grid1.png)
+![Grid One](https://raw.githubusercontent.com/marcmajcher/serpens-malum/master/public/img/Grid1.png)
 
-![Grid Two](https://marcmajcher.github.io/serpens-malum/img/Grid2.png)
+![Grid Two](https://raw.githubusercontent.com/marcmajcher/serpens-malum/master/public/img/Grid2.png)
 
-![Grid Three](https://marcmajcher.github.io/serpens-malum/img/Grid3.png)
+![Grid Three](https://raw.githubusercontent.com/marcmajcher/serpens-malum/master/public/img/Grid3.png)
 
 [More Grids!](https://marcmajcher.github.io/serpens-malum/)
 
