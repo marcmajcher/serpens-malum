@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/serpens-malum/static/css/main.7f27aa6b.chunk.css",
+    "main.js": "/serpens-malum/static/js/main.9732b1ff.chunk.js",
+    "main.js.map": "/serpens-malum/static/js/main.9732b1ff.chunk.js.map",
+    "runtime-main.js": "/serpens-malum/static/js/runtime-main.fe9c22cc.js",
+    "runtime-main.js.map": "/serpens-malum/static/js/runtime-main.fe9c22cc.js.map",
+    "static/js/2.f49ba164.chunk.js": "/serpens-malum/static/js/2.f49ba164.chunk.js",
+    "static/js/2.f49ba164.chunk.js.map": "/serpens-malum/static/js/2.f49ba164.chunk.js.map",
+    "index.html": "/serpens-malum/index.html",
+    "static/css/main.7f27aa6b.chunk.css.map": "/serpens-malum/static/css/main.7f27aa6b.chunk.css.map",
+    "static/js/2.f49ba164.chunk.js.LICENSE.txt": "/serpens-malum/static/js/2.f49ba164.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe9c22cc.js",
+    "static/js/2.f49ba164.chunk.js",
+    "static/css/main.7f27aa6b.chunk.css",
+    "static/js/main.9732b1ff.chunk.js"
+  ]
+}
