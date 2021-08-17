@@ -1,6 +1,6 @@
-# Serpens Malus
+# Serpens Malum
 
-Serpens Malus (The Serpent's Apple), is a role-playing game for three or four friends. In the game, you 
+Serpens Malum (The Serpent's Apple), is a role-playing game for three or four friends. In the game, you 
 play the roles of citizens of the city of Troy, just as the Trojan War begins. While your characters are 
 generally safe behind the city walls, and the fall of Troy will not come for many years, your days are numbered.
 
@@ -50,6 +50,16 @@ You may spend Apples in the following ways, marking them off your sheet as you u
 ## Ending
 
 Play until you feel that you've had enough, or until every character has either exited the game by running into a Skull, edge, or visited square, or achieved their Goal. You will be remembered.
+
+## Grids
+
+![Grid One](https://marcmajcher.github.io/serpens-malum/img/Grid1.png)
+
+![Grid Two](https://marcmajcher.github.io/serpens-malum/img/Grid2.png)
+
+![Grid Three](https://marcmajcher.github.io/serpens-malum/img/Grid3.png)
+
+[More Grids!](https://marcmajcher.github.io/serpens-malum/)
 
 ### Names
 

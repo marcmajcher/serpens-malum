@@ -26,10 +26,7 @@ function App() {
       <button onClick={() => grid.refresh()}>Refresh</button>
       <hr />
       <div>
-        <h2>Rules</h2>
-        <p>
-          TK
-        </p>
+        <h2><a href="https://github.com/marcmajcher/serpens-malum/blob/master/README.md">Rules</a></h2>
       </div>
     </div>
   );
